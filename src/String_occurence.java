@@ -1,6 +1,6 @@
 // Java program to count the number
 // of occurrence of a word in
-// the given string given string
+// the given string 
 import java.io.*;
 
 class String_occurence {
@@ -21,8 +21,6 @@ class String_occurence {
 
         return count;
     }
-
-    // Driver code
     public static void main(String args[])
     {
         String str = "GeeksforGeeks A computer science portal for geeks ";
@@ -31,4 +29,3 @@ class String_occurence {
     }
 }
 
-/*This code is contributed by Nikita Tiwari.*/
